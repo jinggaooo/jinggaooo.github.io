@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>University of Minnesota</a>. gao00268@umn.edu
+subtitle: <a href='#'>University of Minnesota</a>. 
 
 profile:
   align: right
@@ -19,3 +19,5 @@ social: false # includes social icons at the bottom of the page
 ---
 
 Welcome! I am a 5th-year PhD student in Finance at the University of Minnesota.
+
+You can reach me at gao00268@umn.edu
