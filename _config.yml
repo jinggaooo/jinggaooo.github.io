@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: 
 middle_name:
-last_name: Name
+last_name: Gao
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -169,6 +169,7 @@ include: ["_pages", "_scripts"]
 exclude:
   - _news/announcement_*.md
   - _pages/blog.md
+  - _pages/projects.md
   - _posts/
   - assets/jupyter/blog.ipynb
   - bin/
