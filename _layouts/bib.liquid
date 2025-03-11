@@ -359,6 +359,10 @@
       </div>
     {% endif %}
 
+    {% if entry.url %}
+      <a href="{{ entry.url }}" target="_blank">[PDF]</a>
+    {% endif %}
+
     {% if entry.video and site.enable_video_embedding %}
       <!-- Hidden video block -->
       <div class="abstract hidden">
