@@ -18,6 +18,6 @@ social: false # includes social icons at the bottom of the page
 
 ---
 
-Welcome! I am a 5th-year PhD student in Finance at the University of Minnesota.
+Welcome! I am a PhD candidate in Finance at the University of Minnesota. I am on the Finance job market during the 2025-26 academic year.
 
 You can reach me at gao00268@umn.edu
