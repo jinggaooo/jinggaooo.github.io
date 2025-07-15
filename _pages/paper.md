@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /papers/
-title: Papers
+title: Research
 description: 
 nav: false
 nav_order: 6
