@@ -7,9 +7,9 @@ nav: true
 nav_order: 6
 ---
 
-__Instructor__.
+Instructor.
 FINA3001: Fundamentals of Finance (2 sections)
-__Teaching assistant__ (selective).
+Teaching assistant (selective).
 FINA 4122: Banking Institutions
 FINA 4325: Behavioral Finance
 FINA 4522: Options & Derivatives I
