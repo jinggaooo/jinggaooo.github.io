@@ -25,8 +25,10 @@ FINA 4622: International Finance
 
 FINA 6111: Financing over a Firm's Lifecycle
 
+FINA 6121: Debt Markets, Interest Rates, and Hedging
+
 FINA 6213: Financial Capital Structure
 
 FINA 6321: Portfolio Management
 
-MSF  6322: Corporate Valuation and modeling
+MSF  6322: Corporate Valuation and Modeling
