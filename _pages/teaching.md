@@ -11,24 +11,8 @@ __Instructor__
 
 FINA3001: Fundamentals of Finance (2 sections)
 
-__Teaching assistant__ (selective)
+__Teaching assistant__
 
-FINA 4122: Banking Institutions
+MBA/Master Courses: Derivatives and Risk Management; Finance for Multinationals; Portfolio Management; Private and Public Equity Financing; Financial Services Industry; Financing over a Firm's Lifecycle; Financial Capital Structure; Corporate Valuation and Modeling; Debt Markets, Interest Rates, and Hedging; Cash Flows and Project Selection; Working Capital Management; Business Valuation; Corporate Financial Decisions and Analysis; Finance within the Macroeconomy
 
-FINA 4325: Behavioral Finance
-
-FINA 4522: Options & Derivatives I
-
-FINA 4621: The Global Economy (Macro)
-
-FINA 4622: International Finance
-
-FINA 6111: Financing over a Firm's Lifecycle
-
-FINA 6121: Debt Markets, Interest Rates, and Hedging
-
-FINA 6213: Financial Capital Structure
-
-FINA 6321: Portfolio Management
-
-MSF  6322: Corporate Valuation and Modeling
+Undergraduate Courses: International Finance;  Behavioral Finance; Banking Institutions; Options & Derivatives; The Global Economy (Macro)
