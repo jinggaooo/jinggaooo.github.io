@@ -9,7 +9,7 @@ nav_order: 6
 
 __Instructor__
 
-FINA3001: Fundamentals of Finance (2 sections)
+Finance Fundamentals (2 sections)
 
 __Teaching assistant__
 
