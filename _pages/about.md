@@ -20,6 +20,6 @@ social: false # includes social icons at the bottom of the page
 
 Welcome! I am a Finance PhD candidate at the University of Minnesota. I am on the Finance job market during the 2025-26 academic year.
 
-Research Interests: Financial Institutions, Machine Learning, Macro Finance, Corporate Finance, Asset Pricing
+Research Interests: Financial Institutions, Macro Finance, Machine Learning, Corporate Finance, Asset Pricing
 
 You can reach me at gao00268@umn.edu
