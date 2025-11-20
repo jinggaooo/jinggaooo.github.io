@@ -22,4 +22,4 @@ Welcome! I am a Finance PhD candidate at the University of Minnesota. I am on th
 
 Research Interests: Financial Institutions, Macro Finance, Machine Learning, Corporate Finance, Asset Pricing
 
-You can reach me at gao00268@umn.edu
+You can reach me at gao00268@umn.edu.
