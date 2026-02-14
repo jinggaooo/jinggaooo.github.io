@@ -14,11 +14,10 @@ profile:
    # <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page. I am joining Peking University HSBC Business School as an Assistant Professor of Finance in 2026.
-
+social: false # includes social icons at the bottom of the page. 
 ---
 
-Welcome! I am a Finance PhD candidate at the University of Minnesota. I am on the Finance job market during the 2025-26 academic year.
+Welcome! I am a Finance PhD candidate at the University of Minnesota. I am joining Peking University HSBC Business School as an Assistant Professor of Finance in 2026.
 
 Research Interests: Financial Institutions, Macro Finance, Machine Learning, Corporate Finance, Asset Pricing
 
