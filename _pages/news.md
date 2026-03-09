@@ -5,4 +5,8 @@ nav: true
 nav_order: 5
 permalink: /news/
 ---
-Term Structure Extrapolation using Macro-Driven Ultimate Forward Rate (by Hangsuck Lee, Sunae Kim and Hongjun Ha)
+Ample Reserves for Whom? The Role of Foreign Banks in U.S. Monetary Policy Implementation, by Junko Oguri and Cristoforo Pizzimenti (MFA 2026)
+
+Managing the Information-Driven Volatility, by Jianyao He (SFA 2025)
+
+Term Structure Extrapolation using Macro-Driven Ultimate Forward Rate, by Hangsuck Lee, Sunae Kim and Hongjun Ha (MRS 2025)
