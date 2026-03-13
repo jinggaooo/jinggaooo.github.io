@@ -17,7 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page.  I will join Peking University HSBC Business School as an Assistant Professor of Finance in Fall 2026.
 ---
 
-Welcome! I am a Finance PhD candidate at the University of Minnesota.
+Welcome! I am a Finance PhD candidate at the University of Minnesota. I will be joining PHBS as an Assistant Professor of Finance.
 
 Research Interests: Financial Institutions, Macro Finance, Machine Learning, Corporate Finance, Asset Pricing
 
