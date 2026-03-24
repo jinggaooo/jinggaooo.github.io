@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page.  I will join Pe
 
 Welcome! I am a Finance PhD candidate at the University of Minnesota. I will be joining PHBS as an Assistant Professor of Finance.
 
-Research Interests: Financial Institutions, Macro Finance, Machine Learning, Corporate Finance, Asset Pricing
+Research Interests: Financial Institutions, AI, Corporate Finance, Asset Pricing, Structural Estimation
 
 You can reach me at gao00268@umn.edu.
