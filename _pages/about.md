@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page.  Firms are cent
 
 Welcome! I am a Finance PhD candidate at the University of Minnesota. I will join Peking University HSBC Business School (PHBS) as an Assistant Professor of Finance.
 
-Research: Financial Institutions, AI, Corporate Finance, Asset Pricing, Structural Estimation.
+Research: Financial Institutions, AI, Corporate Finance, Macro Finance.
 
 You can reach me at gao00268@umn.edu.
