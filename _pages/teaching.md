@@ -7,6 +7,4 @@ nav: true
 nav_order: 6
 ---
 
-__Instructor__
-
-Finance Fundamentals (2 sections)
+Finance Fundamentals, University of Minnesota, 2022-2023
