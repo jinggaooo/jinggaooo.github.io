@@ -21,4 +21,4 @@ Welcome! I am an Assistant Professor of Finance at Peking University HSBC Busine
 
 Research: Financial Institutions, AI, Corporate Finance, Macro Finance.
 
-You can reach me at gao00268@umn.edu.
+You can reach me at jinggao@phbs.pku.edu.cn
