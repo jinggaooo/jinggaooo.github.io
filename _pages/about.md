@@ -19,6 +19,6 @@ social: false # includes social icons at the bottom of the page.  Firms are cent
 
 Welcome! I am an Assistant Professor of Finance at Peking University HSBC Business School. I earned my Ph.D. in Finance from the University of Minnesota.
 
-Research: Financial Institutions, AI, Corporate Finance, Macro Finance.
+Research: Financial Intermediation, AI, Corporate Finance, Macro Finance.
 
 You can reach me at jinggao@phbs.pku.edu.cn
